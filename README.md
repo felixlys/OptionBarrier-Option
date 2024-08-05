@@ -1,1 +1,1 @@
-Valuasi Opsi Barrier 
+\textbf{Valuasi Opsi Barrier}
