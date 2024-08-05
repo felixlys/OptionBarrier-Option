@@ -1,0 +1,1 @@
+Valuasi Opsi Barrier 
